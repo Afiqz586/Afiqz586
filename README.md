@@ -38,7 +38,7 @@
 **Languages & Frontend**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=cpp,python,php,js,html,css" alt="C++, Python, PHP, JavaScript, HTML, CSS" />
+  <img src="https://skillicons.dev/icons?i=cpp,php,js,html,css" alt="C++, Python, PHP, JavaScript, HTML, CSS" />
 </p>
 
 **Database & Tools**
@@ -50,7 +50,7 @@
 **Currently Exploring**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,expo" alt="React, Expo" />
+ <img src="https://vercel.app" alt="React, Expo, Python, NumPy, Pandas" />
 </p>
 
 ### 📊 GitHub Stats
