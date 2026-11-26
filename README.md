@@ -50,7 +50,9 @@
 **Currently Exploring**
 
 <p>
-  <img src="https://netlify.app" alt="React, Expo, Python, NumPy, Pandas" />
+  <img src=“https://skillicons.dev/icons?i=react,python&theme=dark” alt=“React and Python” />
+  <img src=“https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white” alt=“NumPy” />
+  <img src=“https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white” alt=“Pandas” />
 </p>
 
 ### 📊 GitHub Stats
