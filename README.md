@@ -24,9 +24,9 @@
 
 | Project | What it does | Tech |
 |---|---|---|
-| **ReTrack** | AI-powered receipt tracking app that helps you keep tabs on your spending | React Native, Expo |
-| **ITMS** | Information and Training Management System for managing training records and information in one place | PHP, MySQL, JavaScript |
-| **Fitnity** | Fitness and membership management web app for gyms | PHP, MySQL, CSS |
+| **ReTrack** | AI-powered receipt tracking app that helps you keep tabs on your spending | React Native, Expo, Firebase |
+| **ITMS** | Information and Training Management System for managing training records and information in one place | PHP, MySQL, JavaScript, CSS |
+| **Fitnity** | Fitness and membership management web app for gyms | PHP, MySQL, JavaScript CSS |
 
 <!-- LATER: once the repos are public, turn each name into a link, for example:
      | [**ReTrack**](https://github.com/Afiqz586/YOUR-REPO-NAME) | ...
