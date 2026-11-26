@@ -26,13 +26,13 @@
 **Languages & Frontend**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=php,js,html,css" />
+  <img src="https://skillicons.dev/icons?i=c++,python,php,js,html,css" />
 </p>
 
 **Database & Tools**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,git,github,vscode,figma" />
+  <img src="https://skillicons.dev/icons?i=mysql,git,github,vscode,firebase" />
 </p>
 
 **Currently Exploring**
