@@ -26,7 +26,7 @@
 **Languages & Frontend**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=C++,python,php,js,html,css" />
+  <img src="https://skillicons.dev/icons?i=cpp,python,php,js,html,css" />
 </p>
 
 **Database & Tools**
