@@ -50,7 +50,7 @@
 **Currently Exploring**
 
 <p>
-<img src="https://vercel.app" alt="React, Expo, Python, NumPy, Pandas" />
+  <img src="https://netlify.app" alt="React, Expo, Python, NumPy, Pandas" />
 </p>
 
 ### 📊 GitHub Stats
